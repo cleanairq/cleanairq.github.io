@@ -972,7 +972,7 @@ a:hover, a:active {
   display: block;
   overflow: hidden; }
 .team-style .bg-cover {
-  background-color: rgba(255, 66, 41, 0) !important;
+  background-color: #ff4229 !important;
   opacity: 1;
   position: absolute;
   height: 100%;
@@ -985,7 +985,8 @@ a:hover, a:active {
 .team-style .team-member-img > img {
   transition: all 0.2s ease 0s; }
 .team-style:hover .bg-cover {
-  background-color: rgba(255, 165, 59, 0.75) !important;
+  background-color: #ffa53b !important;
+  opacity: 0.7;
   display: block; }
 .team-style:hover .social-links {
   transition-delay: 100ms,100ms;
