@@ -814,6 +814,32 @@ a:hover, a:active {
   background-color: #FFA53B; }
 .feature-box01:hover .icon {
   color: #fff; }
+.feature-icon {
+  position: absolute;
+  left: 0px;
+  top: 20px; }
+
+.feature-icon {
+  position: absolute;
+    content: '';
+    width: 80px;
+    height: 80px;
+    left: -7px;
+    top: 0px;
+    border-radius: 50%;
+    box-shadow: 0 30px 50px 0px rgb(255 165 59 / 20%); }
+.feature-img {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; }
+.feature-img img {
+  
+  object-fit: cover;
+  min-width:100%;
+  min-height:100%; }
+
 
 /*==============================
     Portfolio
